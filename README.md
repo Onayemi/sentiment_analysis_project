@@ -6,6 +6,7 @@ This repo consits of the following
 
 Tasks Completed:
 
+## To install libraries
 ### Wordcloud - This package is used to generate word cloud images.
 ### Langdetect - This library is used for language detection.
 ### Sumy - Automatic summarization of text documents and articles.
